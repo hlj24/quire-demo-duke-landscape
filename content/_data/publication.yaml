@@ -13,31 +13,31 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Building Duke's Landscape
+subtitle: How the Olmsted Brothers Firm Imagined Duke
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  full: "When J.B. Duke and William Preston Few began planning for the construction of a new university in Durham, North Carolina, they knew they needed not only an architect to design the buildings, but also a *landscape* architect to design the spaces around and between the buildings. These landscape designs would impact how people experienced the campus. With grand visions in mind, Duke and Few looked to the very best in American landscape architecture: the Olmsted Brothers firm."
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2024-10-16 # YYYY-MM-DD
 language: en
-pub_type: book # book | journal-periodical | other
+pub_type: other # book | journal-periodical | other
 
 identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
+  - name: Duke University Digital Art History & Visual Culture Research Lab
+    location: Durham, North Carolina
     url:
-    logo: logo-getty.png
+    logo: DAHVC_Logo2020_white.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -46,21 +46,21 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: hjacobs
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    first_name: Hannah L.
+    last_name: Jacobs
+    title: Digital Humanities Consultant
+    affiliation: Duke University Libraries
+    bio: "Hannah consults and collaborates with staff, students, and faculty on a range of digital humanities topics."
+    url: https://scholars.duke.edu/person/hannah.jacobs
+    image: contributors/hannah-jacobs.jpg
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2024 Hannah L. Jacobs
 
 license:
   name: Creative Commons Attribution 4.0 International License
@@ -83,6 +83,11 @@ resource_link:
     media_type: application/epub+zip
     link_relation: alternate
     url: /_assets/downloads/publication.epub
+  - type: related-resource
+    name: ArcGIS StoryMap
+    media_type: https
+    link_relation: alternate
+    url: https://arcg.is/L59qa1
   - type: footer-link
     name: About
     link_relation: about
