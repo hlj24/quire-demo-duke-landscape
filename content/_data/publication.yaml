@@ -106,11 +106,15 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
+  - type: getty
+    name: landscape architecture (work genre)
+    identifier: http://vocab.getty.edu/page/aat/300417326
+  - type: getty
+    name: Olmsted Brothers
+    identifier: http://vocab.getty.edu/page/ulan/500033177
+    identifier: 
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: landscape architecture, campus history, Duke University
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -120,7 +124,7 @@ revision_history:
   - date:
     summary:
 
-repository_url:
+repository_url: https://github.com/hlj24/quire-demo-duke-landscape
 
 # ------------------------------------------------------------------------------
 # Promo Image
