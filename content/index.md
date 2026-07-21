@@ -4,7 +4,7 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: cover-background.jpg
+image: 000_COVER_SchemeA_RainbowFountain_34225625904_0b2cbebd7c_6k.jpg
 outputs:
   - html
   - pdf

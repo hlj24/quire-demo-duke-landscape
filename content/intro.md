@@ -1,23 +1,25 @@
 ---
-title: Introduction
-subtitle: A Tale of Two Photographers
+title: A Campus Needs a Landscape
+subtitle:
 layout: splash
 order: 10
 classes:
   - frontmatter
-image: figures/lange-house.jpg
+image: figures/001_OlmstedOrg_OlmstedBrothersFirm_G06-087_F.jpg
 ---
 
-Dorothea Lange had an extraordinary life and career as a prolific photographer. She worked for Arnold Genthe in his portrait studio in New York and studied photography with Clarence White at Columbia University. In 1918 she began to travel around the world to make her living as a photographer. She found herself stranded in San Francisco, so she opened a photographic studio there. Paul Taylor, who would become her second husband, hired her to document migratory workers in California.
+When J.B. Duke and William Preston Few began planning for the construction of a new university in Durham, North Carolina, they knew they needed not only an architect to design the buildings, but also a landscape architect to design the spaces around and between the buildings. These landscape designs would impact how people experienced the campus. With grand visions in mind, Duke and Few looked to the very best in American landscape architecture: the Olmsted Brothers firm.
 
-{% figure 'lange' 'is-pulled-right' %}
+{% figure 'olmstedbros' 'is-pulled-right' %}
 
-In 1935 she began to work for the Resettlement Administration, later known as the Farm Security Administration. During this period, she made her most famous image, [*Human Erosion in California (Migrant Mother)*](/catalogue/1/), of Native American Florence Owens Thompson and her children in a pea-pickers' camp. Other less famous subjects included Japanese internment camps and scenes of workers in factories during World War II. Lange became the first woman awarded a Guggenheim fellowship, and she spent nearly ten years making photo essays for *Life* and other magazines. She also traveled extensively, making photo essays in Vietnam, Ireland, Pakistan, India, and elsewhere.
+## Origins of the Olmsted Brothers
 
-{% figure 'evans' 'is-pulled-left' %}
+The Olmsted Brothers firm traces its origins to Frederick Law Olmsted and his first partner, Calvert Vaux. The firm got its start in 1857 when the two submitted a proposal for the design of Central Park in New York City and were awarded first prize. 
 
-Walker Evans began to photograph in the late 1920s, making snapshots during a European trip. Upon his return to New York, he published his first images in 1930. During the Great Depression, Evans began to photograph for the Resettlement Administration, later known as the Farm aecurity Administration (FSA), documenting workers and architecture in the Southeastern states. In 1936 he traveled with the writer James Agee to illustrate an article on tenant farm families for *Fortune* magazine; the book *Let Us Now Praise Famous Men* came out of this collaboration.
+{% figure 'centralpark' %}
 
-Throughout his career Evans contributed photographs to numerous publications, including three devoted solely to his work. In 1965 he left Fortune, where he had been a staff photographer for twenty years, to become a professor of photography and graphic design at Yale University. He remained in the position until 1974, a year before his death.
+The firm took on various projects for both private and public clients throughout the nineteenth century, building a formidable reputation. Meanwhile, Olmsted worked in various local and national government roles and, as a result of his business travels in the south, published a book condemning slavery in 1861. In his private business, Olmsted worked with different partners over time, but his most lasting partnership was with his stepson and nephew John Charles Olmsted, who took over the firm with his half brother Frederick Law Olmsted, Jr., when Olmsted, Sr., retired.
 
-{% figure "audio-1" %}
+{% figuregroup '2' 'JohnCharles, FrederickJr' %}
+
+By 1925, John Charles Olmsted had passed away, and Frederick Law Olmsted, Jr., was senior partner in the firm. It was in this year that Duke approached the firm about designing the landscape for both a fully renovated Woman's College (East Campus) and the new Duke University (West Campus). They would work alongside the Horace Trumbauer Architecture Firm to design the campuses.

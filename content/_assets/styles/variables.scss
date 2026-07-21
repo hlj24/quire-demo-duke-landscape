@@ -1,3 +1,5 @@
+// CUSTOMIZED FILE
+// background & accent colors, page header text color
 // =============================================================================
 // Variables.scss
 // -----------------------------------------------------------------------------
@@ -7,8 +9,8 @@
 // sure to leave the colons (:) and semi-colons (;) in place.
 
 $accent-color: null;
-$content-background-color: null; // main text area background color
-$secondary-background-color: null; // only for modern theme
+$content-background-color: #e4dbc2; // main text area background color
+$secondary-background-color: #e4dbc2; // only for modern theme
 
 // Declare the theme: modern/classic
 $theme: modern;
@@ -99,7 +101,7 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $quire-headings-font: $ibm-sans !default;
   $quire-footnotes-font: $noto-serif !default;
   $quire-navigation-font: $noto-sans !default;
-  $accent-color: $red !default;
+  $accent-color: #304e4e !default;
   $content-background-color: $white !default;
   $secondary-background-color: $off-white !default;
 }

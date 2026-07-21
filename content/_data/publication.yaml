@@ -48,8 +48,7 @@ contributor_as_it_appears:
 contributor:
   - id: hjacobs
     type: primary
-    first_name: Hannah L.
-    last_name: Jacobs
+    full_name: Hannah L. Jacobs
     title: Digital Humanities Consultant
     affiliation: Duke University Libraries
     bio: "Hannah consults and collaborates with staff, students, and faculty on a range of digital humanities topics."
@@ -112,7 +111,6 @@ subject:
   - type: getty
     name: Olmsted Brothers
     identifier: http://vocab.getty.edu/page/ulan/500033177
-    identifier: 
   - type: keywords
     name: landscape architecture, campus history, Duke University
 
