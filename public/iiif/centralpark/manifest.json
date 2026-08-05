@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8080/iiif/centralpark/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      null
+    ]
+  },
+  "items": [
+    {
+      "id": "http://localhost:8080/iiif/centralpark/canvas",
+      "type": "Canvas",
+      "height": 2004,
+      "width": 7839,
+      "items": [
+        {
+          "id": "http://localhost:8080/iiif/centralpark/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/iiif/centralpark/canvas/002_IIIF_NYCPL_CentralParkDesign_K1UAH83PSkOQ08S5dQX92gh",
+              "motivation": "painting",
+              "target": "http://localhost:8080/iiif/centralpark/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "http://localhost:8080/iiif/centralpark/002_IIIF_NYCPL_CentralParkDesign_K1UAH83PSkOQ08S5dQX92gh/print-image.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2004,
+                "width": 7839,
+                "label": {
+                  "en": [
+                    "002 I I I F N Y C P L Central Park Design K1 U A H83 P Sk O Q08 S5d Q X92gh"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://localhost:8080/iiif/centralpark/002_IIIF_NYCPL_CentralParkDesign_K1UAH83PSkOQ08S5dQX92gh/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
